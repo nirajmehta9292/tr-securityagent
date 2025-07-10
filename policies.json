@@ -1,0 +1,22 @@
+{
+  "violence": {
+    "threshold": 0.8,
+    "action": "block"
+  },
+  "hate": {
+    "threshold": 0.75,
+    "action": "block"
+  },
+  "spam": {
+    "threshold": 0.6,
+    "action": "block"
+  },
+  "violence_hi": {
+    "threshold": 0.8,
+    "action": "block"
+  },
+  "hate_ar": {
+    "threshold": 0.75,
+    "action": "block"
+  }
+}
